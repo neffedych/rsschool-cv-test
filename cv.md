@@ -23,12 +23,12 @@ I am *19 y.o*. I am a student. My goal is to be a part of IT. I’ll do my best 
 2018-2022 
 :   **Belarusian State Economic University**, **BSc, World Economy**; 
 
-    **Course Completed** 
+    Course Completed
     
-    * Python Programming
-    * Introduction to JAVA
-    * Android Studio
-    * HTML, CSS
+    Python Programming
+    Introduction to JAVA
+    Android Studio
+    HTML, CSS
 
 # Experience
 -------------------     ----------------------------
