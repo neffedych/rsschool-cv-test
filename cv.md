@@ -8,14 +8,14 @@ Minsk, Belarus
 
 # About MySelf
 -------------------     ----------------------------
-I am *19 y.o*. I am a student. My goal is to be a part of IT. I’ll do my best to reach my goal. I am *hardworking* and always go to bed after completing a task. I am always *full of energy* and strive to learn new skills, also I *self-motivated* and find a right motivation to myself. I have a *big goal* but to reach this goal I always set up a smaller goals, which help me to reach the biggest. Moreover, I am a *team player*, I always like to work in a team. I love the atmosphere of the team and its power
+I am *20 y.o*. I am a student. My goal is to be a part of IT. 
 
 # Skills
 -------------------     ----------------------------
-* Python (middle knowledge)
+* Python (basic knowledge)
 * HTML, CSS
-* JavaScript (basic)
-* Android Studio (middle knowledge)
+* JavaScript (basic knowledge)
+
 
 # Education
 -------------------     ----------------------------
