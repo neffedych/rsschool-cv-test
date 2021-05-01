@@ -27,7 +27,6 @@ I am *20 y.o*. I am a student. My goal is to be a part of IT.
     
     Python Programming
     Introduction to JAVA
-    Android Studio
     HTML, CSS
 
 # Experience
