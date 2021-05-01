@@ -38,17 +38,9 @@ I am *20 y.o*. I am a student. My goal is to be a part of IT.
 **Tasks**
 * Providing assistance for guests
 * Booking a room by phone
-* Answering questions and handling complaints
-* Registration of guests
 
-*Contact:* **gary@lakegeorgervpark.com (Gary)**
+*Contact:* **gary@rvpark.com (Gary)**
 
-#### **Tandoori Restaurant, Lake George, NY, USA**
-
-**Tasks**
-* Visitor consultation
-* Taking measures to prevent conflict situations
-* Control over the execution of the instructions of the organization's management by employees
 
 #### **Introduction to Java**
 
@@ -68,5 +60,5 @@ I am *20 y.o*. I am a student. My goal is to be a part of IT.
 ----------------------------------------
 
 ## **English**
-I have *B2* level of English. I've had a lot of speaking practice with native speakers. I've been in *USA* and *GB* where i also improved my level of English.  I attended the *2 week school-courses in London* where i communicated with teachers, students, made the presentations and upgraded my skill of public speaking. Moreover, i often try to take part in University's conference.
-
+Version by my gf -  *B2*.
+Version by my EPAM -  *A2*. 
